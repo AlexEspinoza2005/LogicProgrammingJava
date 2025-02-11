@@ -29,9 +29,3 @@ Clone the repository:
 git clone https://github.com/AlexEspinoza2005/LogicProgrammingJava.git
 ```
 
-Navigate to the project folder and start coding!
-
----
-
-Happy coding!
-
